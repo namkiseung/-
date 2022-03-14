@@ -1,3 +1,6 @@
+#공식 Frida Documents
+https://frida.re/docs/
+
 #frida 포럼/커뮤니티
 http://linforum.kr/bbs/board.php?bo_table=android&sca=FRIDA
 
@@ -6,3 +9,9 @@ https://codeshare.frida.re/
 
 #훈련
 https://github.com/OWASP/owasp-mstg/tree/master/Crackmes/
+
+#치트시트
+https://awakened1712.github.io/hacking/hacking-frida/
+
+#툴 추천 
+jeb2Frida : https://github.com/cryptax/misc-code/blob/master/jeb/Jeb2Frida.py
